@@ -1,7 +1,7 @@
 # SimulatedAnnealing-FSP
  Simulated Annealing approach for the Fire Scheduling Problem
- Este proyecto contiene el código utlizado en Java y AMPL para reoslver el problema y las instancias utilizadas tanto en Java como en AMPL
- Se incluye un archivo explicativo para leer los archivos txt que contienen las instancias de Java
+ Este proyecto contiene el código utlizado en Java y AMPL para reoslver el problema además de las instancias utilizadas tanto en Java como en AMPL
+ Se incluye un archivo explicativo para leer los archivos txt que contienen las instancias de Java.
  Clases del código:
  - ArrayParameters: Contiene listas de listas de los parámetros de cada operación de disparo
  - ArrayTiempos: Contiene listas de listas de los tiempos de cada operación de disparo
